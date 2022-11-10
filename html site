@@ -5,32 +5,35 @@
 <meta charset="UTF-8">
 <h1><strong><title>Dark Barbers</title></strong></h1>
 <style>
+p {
+text-align: center
 
+}
 
 </style>
 
 </head>
 <body>
-    <h1><strong><title>Dark Barbers</title></strong></h1>
+    <h1 style="text-align: center"><strong><title>Dark Barbers</title></strong></h1>
 
-    <p><em>Nossa Barbearia se <strong>localiza em Piraquara-PR na Avenida Getúlio Vargas, ao lado do Correio</strong></em>.
+    <p style=""><em>Nossa Barbearia se <strong>localiza em Piraquara-PR na Avenida Getúlio Vargas, ao lado do Correio</strong></em>.
     Teremos diversos cortes com valores acessíveis.</p>
 
-    <p style="font-size: 20px"><strong>preços:</strong>
+    <p style="font-size: 20px; style="text-align: center"><strong>preços:</strong>
     Cabelo: R$22,00
     Barba: R$25,00
     Sobrancelha: R$5,00
     Esfoliação de pele: R$20,00</p>
 
-    <p><strong>Combos:</strong>
+    <p style="text-align: center"><strong>Combos:</strong>
     Cabelo e barba = R$45,00
     Cabelo e sobrancelha = R$25,00
     Barba e sobrancelha = R$27,00
     Cabelo, barba e sobrancelha = R$50,00</P>
 
-    <p>Se você fizer quatro cortes no mês você ganha uma esfoliação de pele por conta da casa.</p>
+    <p style="text-align: center">Se você fizer quatro cortes no mês você ganha uma esfoliação de pele por conta da casa.</p>
 
-    <p>Trazemos o plano mensal que você pagará R$50,00 por mês, e pode cortar o cabelo quantas vezes quiser no mês.</p>
+    <p style="text-align: center">Trazemos o plano mensal que você pagará R$50,00 por mês, e pode cortar o cabelo quantas vezes quiser no mês.</p>
 </html>
 </body>
 
