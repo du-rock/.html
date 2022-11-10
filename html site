@@ -4,6 +4,9 @@
 <head>
 <meta charset="UTF-8">
 <h1><strong><title>Dark Barbers</title></strong></h1>
+
+<link rel="stylesheet" href="style.css">
+
 <style>
 p {
 text-align: center
